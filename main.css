@@ -10,12 +10,10 @@ body {
 	border-radius: 40px;
 	background-image: url("MobiusTime.png") ;
 	background-repeat:no-repeat;
-	height: 300px;
-	width: 300px;
 	background-origin: center;
 	text-align: center;
 	color: black;
-	font-size: 300%;
+	font-size: 500%;
 	font-family: iosevka;
 }
 sub {
