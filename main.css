@@ -1,0 +1,144 @@
+body {
+	background-image: url('Background.png');
+	background-position: center;
+	background-repeat: repeat;
+	background-size: normal;
+	text-align: center;
+}
+.buttonGames {
+	border-width: 10px;
+	border-radius: 40px;
+	background-image: url("MobiusTime.png") ;
+	background-repeat:no-repeat;
+	height: 300px;
+	width: 300px;
+	background-origin: center;
+	text-align: center;
+	color: black;
+	font-size: 300%;
+	font-family: iosevka;
+}
+sub {
+  font-size: smaller;
+}
+div {
+	position: absolute;
+  margin: auto;
+  top: 100px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  /* width: 100px; */
+  height: 600px;
+  /* background-color: #ccc; */
+  /* border-radius: 3px; */
+  /* border: 2px solid; */
+  /* padding: 20px; */
+  width: 600px;
+  /* resize: both; */
+  overflow: auto;
+	text-align: center;
+	/* align-self: center; */
+}
+p {
+	color: white;
+	text-align: center;
+}
+.buttonGithub {
+	color: black;
+	font-weight: 5000;
+	border-color: black;
+	border-width:10px;
+	border-radius: 40px;
+	background-image: url("GitHub.png") ;
+	background-repeat:no-repeat;
+	background-origin: center;
+	height: 310px;
+	width: 337px;
+	background-position:5px 2px;
+	text-align: center;
+	text-indent: 42px;
+	color: black;
+	font-size: 300%;
+	font-family: iosevka;
+	padding-right: 3%;
+}
+.buttonGithub:hover {
+	border-color: orange;
+	border-width: 5px;
+	color: orange;
+	background-color: black;
+}
+.buttonGames:hover{
+	border-color: green;
+	border-width: 5px;
+	color: green;
+}
+.Heading {
+	/* height: 300%; */
+	/* width:300%; */
+	font-size: 500%;
+	font-family: iosevka;
+	color: cyan;
+}
+
+.Title {
+	font-size: 300%;
+	color: green;
+}
+.SmallerHeading{
+	font-size: 150%;
+	font-family: iosevka;
+	color: teal;
+.buttonYouTube{
+	border-color: black;
+	border-width:10px;
+	border-radius: 40px;
+	background-image: url("YouTube.png") ;
+	background-repeat:no-repeat;
+	background-origin: center;
+	height: 310px;
+	width: 337px;
+	background-size: 150%;
+	background-position: center;
+	text-align: center;
+	text-indent: 42px;
+	color: black;
+	font-weight: 5000;
+	font-size: 300%;
+	font-family: iosevka;
+	padding-right: 3%;
+}
+.buttonYouTube:hover {
+	border-color: red;
+	border-width: 5px;
+	color: red;
+	font-size: 300%;
+	background-color: black;
+}
+.buttonSideQuest{
+	font-weight: 5000;
+	border-color: black;
+	border-width:10px;
+	border-radius: 40px;
+	background-image: url("0.jpg") ;
+	background-repeat:no-repeat;
+	background-origin: center;
+	height: 310px;
+	width: 337px;
+	background-size: 150%;
+	background-position: center;
+	text-align: center;
+	text-indent: 42px;
+	color: darkred;
+	font-weight: 50000;
+	font-size: 300%;
+	font-family: iosevka;
+	padding-right: 3%;
+}
+.buttonSideQuest:hover {
+	border-color: red;
+	border-width: 5px;
+	color: red;
+	background-color: blue;
+}
