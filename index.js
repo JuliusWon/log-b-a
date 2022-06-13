@@ -4,5 +4,5 @@ function OpenRes(number){
 	window.open(urls[number])
 }
 function OpenLatest(){
-	window.open("./1/page.html")
+	window.open("./2/page.html")
 }
